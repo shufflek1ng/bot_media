@@ -4,10 +4,14 @@ Simple discord bot for playing youtube music through url or search keywords / pl
 
 Instruções de uso:
 
-1️⃣ Comandos de voz
-Comando	Uso	Descrição
-!join	!join	Faz o bot entrar na tua voice channel. Precisas de estar num canal de voz.
-!leave	!leave	Faz o bot sair do canal de voz e limpa a queue desse canal.
+
+
+  Comando          Uso           Descrição
+
+     !join        !join         Faz o bot entrar na tua voice channel. Precisas de estar num canal de voz.
+     !leave       !leave        Faz o bot sair do canal de voz e limpa a queue desse canal.
+
+
 2️⃣ Reprodução de música
 Comando	Uso	Descrição
 !play	!play <YouTube URL ou palavras-chave>	Toca uma música do YouTube. Se o bot já estiver a tocar algo, a música é adicionada à queue.
@@ -15,6 +19,8 @@ Comando	Uso	Descrição
 !np	!np	Mostra a música que está atualmente a tocar.
 !queue	!queue	Mostra a lista de músicas que estão na queue do canal de voz.
 !volume	!volume <0-100>	Ajusta o volume da música atual.
+
+
 3️⃣ Rádio portuguesa
 Comando	Uso	Descrição
 !radio	!radio <estação>	Toca uma estação de rádio portuguesa em tempo real. Disponível:
@@ -30,9 +36,12 @@ Exemplo:
 
 !radio antena1
 
+
 4️⃣ Parar e limpar
 Comando	Uso	Descrição
 !stop	!stop	Para a música/rádio atual e limpa a queue do canal.
+
+
 5️⃣ Regras de uso
 
 Cada voice channel tem sua própria queue, permitindo que vários canais toquem músicas diferentes ao mesmo tempo.
