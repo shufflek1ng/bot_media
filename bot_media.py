@@ -16,6 +16,7 @@ ytdl_format_options = {
     'noplaylist': True,
     'quiet': True,
     'default_search': 'ytsearch',
+    'cookiefile': 'cookies.txt',
 }
 ffmpeg_options = {
     'options': '-vn'
