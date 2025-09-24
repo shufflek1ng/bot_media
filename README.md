@@ -19,7 +19,7 @@ aqui vai uma descrição e lista de comandos e funcionalidades:
      !join            !join               Faz o bot entrar na tua voice channel. Precisas de estar num canal de voz.
      !leave           !leave              Faz o bot sair do canal de voz e limpa a queue desse canal.
 
--------------------------------------------------------------------------- / / -----------------------------------------------------------------------------
+---------------------------------------------------------------------------- / / -------------------------------------------------------------------------------
  
 
 
