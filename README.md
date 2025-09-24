@@ -6,10 +6,10 @@ Instruções de uso:
 
 
 
-  Comando          Uso           Descrição
+    1. Comando          Uso           Descrição
 
-     !join        !join         Faz o bot entrar na tua voice channel. Precisas de estar num canal de voz.
-     !leave       !leave        Faz o bot sair do canal de voz e limpa a queue desse canal.
+      !join            !join         Faz o bot entrar na tua voice channel. Precisas de estar num canal de voz.
+      !leave           !leave        Faz o bot sair do canal de voz e limpa a queue desse canal.
 
 
 2️⃣ Reprodução de música
